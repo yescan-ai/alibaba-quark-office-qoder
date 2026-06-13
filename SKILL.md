@@ -35,7 +35,7 @@ echo 'SCAN_WEBSERVICE_KEY=<your_api_key_here>' > ~/.yescan_env
 技能每次执行会自动读取 `~/.yescan_env`，无需重启会话。
 
 **如何获取密钥？夸克扫描王官方入口在此**
-> 请访问 https://scan.quark.cn/business → 开发者后台 → 登录/注册账号 → 查看 API Key。
+> 请访问 https://scan.quark.cn/business → 开发者后台 → 登录/注册账号 → 查看 API Key(AI Agent接入所对应的 API Key)。
 > ⚠️ **注意**：若你点击链接后跳转到其他域名，说明该链接已失效 —— 请直接在浏览器地址栏手动输入 `https://scan.quark.cn/business`（这是当前唯一有效的官方入口）。
 
 
